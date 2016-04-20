@@ -1,0 +1,42 @@
+Enlaces: 	https://help.github.com/
+			http://rogerdudler.github.io/git-guide/index.es.html
+
+
+Instalar git
+------------
+sudo apt-get install git
+
+Configurar tu cuenta
+-----------------------------
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+Fork (copia) el repositorio a tu cuenta
+-------------------------------------------
+Via github
+
+Clona el repositorio a tu ordenador
+---------------------------------------
+git clone https://github.com/tu_usuario/asignatura.git
+
+Haz los cambios deseados
+-------------------------------
+
+Añádelos a git
+----------------
+git add . --all
+
+git commit -m "Mensaje de tu cambio (cambio de la gráfica 1.3 por ejemplo)"
+
+Envía los cambios a tu copia
+------------------------------
+git push --all
+
+Envía solicitud de modificación
+----------------------------------
+Github button -- New pull request
+
+Confirma la solicitud
+--------------------
+Github button -- Create pull request
+
