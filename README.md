@@ -10,6 +10,9 @@ Es recomendable contribuir a éste proyecto durante el curso ya que es una buena
 
 Primeramente se abordará el contenido del Grado en Ingeniería en Tecnologías Industriales de la Universidad de Málaga que podéis encontrar en la descripción de la asignaturas en [ingenierocontracabrones](https://ingenierocontracabrones.blogspot.com) . Posteriormente se ampliará para llegar a tener un libro general para todas las ingenierías.
 
+##Dependencias
+
+Todas las asignaturas deben basarse en los contenidos expuestos en las asginaturas del grupo @ingenieria-libre/ciencias. Si no existe dicho contenido, incorpórate al grupo de ciencias y edítalo en la asignatura correspondiente. Así tendremos un material basado en unos cimientos sólidos.
 
 ##Redacción
 
