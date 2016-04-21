@@ -1,14 +1,15 @@
 ##Introducción
 
+ESTO ES UNA PLANTILLA. TOMAD COMO REFERENCIA EL MATERIAL DE LA ASIGNATURA [ALGEBRA](https://github.com/ingenieria-libre/algebra) PARA COMENZAR CON ÉSTA ASIGNATURA
 
-El objetivo es hacer un libro en común por y para la comunidad de [ingenierocontracabrones](ingenierocontracabrones.blogspot.com). Mi papel será fundamentalmente instructor para guiar y corregir los posibles errores durante la redacción.
+El objetivo es hacer un libro en común por y para la comunidad de [ingenierocontracabrones](https://ingenierocontracabrones.blogspot.com). Mi papel será fundamentalmente instructor para guiar y corregir los posibles errores durante la redacción.
 
 Es recomendable contribuir a éste proyecto durante el curso ya que es una buena manera de afianzar los conocimientos de las asignaturas y echar una mano a los que la necesitan. 
 
 ##Contenido
 
-Primeramente se abordará el contenido del Grado en Ingeniería en Tecnologías Industriales de la Universidad de Málaga. Posteriormente se ampliará para llegar a tener un libro general para todas 
-las ingenierías.
+Primeramente se abordará el contenido del Grado en Ingeniería en Tecnologías Industriales de la Universidad de Málaga que podéis encontrar en la descripción de la asignaturas en [ingenierocontracabrones](https://ingenierocontracabrones.blogspot.com) . Posteriormente se ampliará para llegar a tener un libro general para todas las ingenierías.
+
 
 ##Redacción
 
