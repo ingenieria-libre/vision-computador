@@ -12,7 +12,7 @@ Primeramente se abordará el contenido del Grado en Ingeniería en Tecnologías 
 
 ##Dependencias
 
-Todas las asignaturas deben basarse en los contenidos expuestos en las asginaturas del grupo @ingenieria-libre/ciencias. Si no existe dicho contenido, incorpórate al grupo de ciencias y edítalo en la asignatura correspondiente. Así tendremos un material basado en unos cimientos sólidos.
+Todas las asignaturas deben basarse en los contenidos expuestos en las asginaturas del equipo de [ciencias](https://github.com/orgs/ingenieria-libre/teams/ciencias/repositories) . Si no existe dicho contenido, incorpórate al grupo de ciencias y edítalo en la asignatura correspondiente. Así tendremos un material basado en unos cimientos sólidos.
 
 ##Redacción
 
